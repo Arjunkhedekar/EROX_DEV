@@ -1,0 +1,16 @@
+.img{
+    position: fixed;
+    width: 1000px;
+}
+.unordered_nav_list{
+    position:fixed;
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+}
+.Header_div{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}        
+.erox_logo{
+    position:fixed;
+}
